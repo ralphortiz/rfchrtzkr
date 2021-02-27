@@ -1,5 +1,5 @@
-### Hi there 👋
 <img src="https://user-images.githubusercontent.com/42314281/109376649-0faf3180-7901-11eb-8844-ec279a662abc.gif" height="260"/>
+### Welcome, my fellow `<dev/>`
 
 
 <!--
