@@ -1,5 +1,5 @@
 ### Hi there, my fellow `<dev/>`.
-Welcome to my github profile. Feel Free to check some of projects.
+Welcome to my github profile. Feel free to check some of projects.
 
 #### Get in Touch:
 [![github](https://user-images.githubusercontent.com/42314281/118358793-1457bd80-b5b3-11eb-9279-e65cf3a4a3df.png)][1]
